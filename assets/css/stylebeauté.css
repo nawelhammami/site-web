@@ -1,0 +1,53 @@
+h1{
+    color: black;
+    font-size: 2cm;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    text-align: end;
+    margin-right: 10px;
+    margin-top: 1px;
+
+}
+
+
+  .creme 
+  {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+    height: 20% ;
+     
+
+  }
+
+  .gommage 
+  {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+    height: 20% ;
+    
+  }
+
+  #paragraphe {
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic; 
+    font-size: xx-large;
+    margin-top: 0px;
+    text-align: center;
+
+  }
+
+  li {
+      font-size: xx-large ;
+  }
+
+  body {
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic; 
+    font-size: xx-large;
+    background-color: #FFEBCD;
+
+  }
